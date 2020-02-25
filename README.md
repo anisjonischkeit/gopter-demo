@@ -1,3 +1,3 @@
-[Document](./docs/index.ibynb)
+[Document](./docs/index.ipynb)
 
 [Slides](https://anisjonischkeit.github.io/gopter-demo/#/)
